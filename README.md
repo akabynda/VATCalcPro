@@ -58,7 +58,7 @@ VATCalcPro - это Python-приложение для вычисления ко
 1. **Клонируйте репозиторий**:
 
    ```bash
-   git clone https://github.com/username/VATCalcPro.git
+   git clone https://github.com/akabynda/VATCalcPro.git
    cd VATCalcPro
    ```
 
